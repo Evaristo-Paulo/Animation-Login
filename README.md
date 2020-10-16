@@ -1,5 +1,7 @@
 # Animation-Login
 This project is about signup form with html and css animations, I mean, without using Javascript stuff.
+
+![project animation](https://github.com/Evaristo-Paulo/Animation-Login/blob/main/login%20animation.gif)
 # Getting started
 You can download this project by clicking [here](https://github.com/Evaristo-Paulo/Animation-Login/archive/main.zip)
 # Which skills you should know
